@@ -54,12 +54,6 @@ What are we Fixing Today Twitter Account (Sir GoodEnough): https://bit.ly/WhatAr
 
 Discord Guild: (Sir_Goodenough#9683): https://discord.gg/Uhmhu3B
 
-## 🧀 If you want to support me
-
-Buy me Coffee: https://www.buymeacoffee.com/SirGoodenough
-
-PayPal one-off donation link: https://www.paypal.me/SirGoodenough
-
 #WhatAreWeFixingToday
 
 #SirGoodEnough
