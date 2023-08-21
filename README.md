@@ -5,14 +5,12 @@
 
 # Availability-Template
 
-Custom Template for checking the availiability of an entity.
-The main reason for using this template is not because it's complicated, it's because availability is something you will be using over and over when you are dealing with sensors, so being able to repeat the same action over and over is better if there is 1 place the code exists.
+Custom Template for checking the availability of an entity.
+The main reason for using this template is not because it's complicated, it's because availability is something you will be using over and over when you are dealing with sensors, so being able to repeat the same action over and over is better if there is 1 place in your project the code exists.
 
 # Installation
 
 Install this in HACS or download the `availability_template.jinja` from this repository and place the files into your `config\custom_templates` directory.
-
-After installation, you can edit the first line to set a default language, this will make the macros easier to use in your native language.
 
 # Availability Test
 
@@ -54,10 +52,11 @@ What are we Fixing Today Twitter Account (Sir GoodEnough): https://bit.ly/WhatAr
 
 Discord Guild: (Sir_Goodenough#9683): https://discord.gg/Uhmhu3B
 
+BluePrint Library: https://github.com/SirGoodenough/HA_Blueprints/blob/master/README.md
+
 #WhatAreWeFixingToday
 
 #SirGoodEnough
-
 
 ## Disclaimer
 
