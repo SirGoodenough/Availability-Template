@@ -12,6 +12,7 @@ The main reason for using this template is not because it's complicated, it's be
 # Installation
 
 Install this in HACS or download the `availability_template.jinja` from this repository and place the files into your `config\custom_templates` directory.
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=SirGoodenough&repository=https%3A%2F%2Fgithub.com%2FSirGoodenough%2FAvailability-Template&category=template)
 
 # Availability Test
 
