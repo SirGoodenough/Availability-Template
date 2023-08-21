@@ -33,3 +33,40 @@ This always returns text, so cast to bool on the other end to be certain of the 
 {% from 'avail.jinja' import avail %}
 {%- if avail(['sensor.qotd','sensor.qotd.attributes.entries[0]']) | bool -%}
 ```
+
+#### Other Info
+
+Location of this code: https://github.com/SirGoodenough/Availability-Template
+
+Let me know if you have a suggestion.
+
+If you have any questions, comments or additions be sure to add an issue and bring them up on my Discord Server:
+
+#### 🤹🏾‍♂️ Contact Links or see my other work
+
+What are we Fixing Today Homepage / Website: https://www.WhatAreWeFixing.Today/
+
+Channel Link URL: (WhatAreWeFixingToday): https://bit.ly/WhatAreWeFixingTodaysYT
+
+What are we Fixing Today Facebook page (Sir GoodEnough): https://bit.ly/WhatAreWeFixingTodaybFB
+
+What are we Fixing Today Twitter Account (Sir GoodEnough): https://bit.ly/WhatAreWeFixingTodayTW
+
+Discord Guild: (Sir_Goodenough#9683): https://discord.gg/Uhmhu3B
+
+## 🧀 If you want to support me
+
+Buy me Coffee: https://www.buymeacoffee.com/SirGoodenough
+
+PayPal one-off donation link: https://www.paypal.me/SirGoodenough
+
+#WhatAreWeFixingToday
+
+#SirGoodEnough
+
+
+## Disclaimer
+
+⚠️ **DANGER OF ELECTROCUTION** ⚠️
+
+If your device connects to mains electricity (AC power) there is danger of electrocution if not installed properly. If you don't know how to install it, please call an electrician (***Beware:*** certain countries prohibit installation without a licensed electrician present). Remember: _**SAFETY FIRST**_. It is not worth the risk to yourself, your family and your home if you don't know exactly what you are doing. Never tinker or try to flash a device using the serial programming interface while it is connected to MAINS ELECTRICITY (AC power).
