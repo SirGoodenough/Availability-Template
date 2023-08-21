@@ -38,7 +38,7 @@ Location of this code: https://github.com/SirGoodenough/Availability-Template
 
 Let me know if you have a suggestion.
 
-If you have any questions, comments or additions be sure to add an issue and bring them up on my Discord Server:
+If you have any questions, comments or additions be sure to add an issue in the above listed github repo and bring them up on my Discord Server:
 
 ### 🤹🏾‍♂️ Contact Links or see my other work
 
