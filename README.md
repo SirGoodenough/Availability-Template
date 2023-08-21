@@ -32,7 +32,7 @@ This always returns text, so cast to bool on the other end to be certain of the 
 {%- if avail(['sensor.qotd','sensor.qotd.attributes.entries[0]']) | bool -%}
 ```
 
-#### Other Info
+### Other Info
 
 Location of this code: https://github.com/SirGoodenough/Availability-Template
 
@@ -40,7 +40,7 @@ Let me know if you have a suggestion.
 
 If you have any questions, comments or additions be sure to add an issue and bring them up on my Discord Server:
 
-#### 🤹🏾‍♂️ Contact Links or see my other work
+### 🤹🏾‍♂️ Contact Links or see my other work
 
 What are we Fixing Today Homepage / Website: https://www.WhatAreWeFixing.Today/
 
@@ -58,7 +58,7 @@ BluePrint Library: https://github.com/SirGoodenough/HA_Blueprints/blob/master/RE
 
 #SirGoodEnough
 
-## Disclaimer
+### Disclaimer
 
 ⚠️ **DANGER OF ELECTROCUTION** ⚠️
 
