@@ -7,7 +7,7 @@
       This always returns text, so cast to bool on the other end to be certain of the result.
       SAMPLE USAGE:
       {% from 'avail.jinja' import avail %}
-      {%- if avail(['sensor.qotd','sensor.qotd.attributes.entries[0]']) | bool -%}
+      {{- avail(['sensor.qotd','sensor.qotd.attributes.entries[0]']) | bool -}}
   #}
   {{ ( expand(entity_list)|rejectattr('state','in',['unknown','unavailable','','none'])
     |list|count == entity_list|count )
