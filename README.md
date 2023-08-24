@@ -30,7 +30,7 @@ This always returns text, so cast to bool on the other end to be certain of the 
 ### Examples
 
 ```jinja
-{% from 'avail.jinja' import avail %}
+{% from 'availability_template.jinja' import avail %}
 {{- avail(['sensor.qotd','sensor.qotd.attributes.entries[0]']) | bool -}}
 ```
 
