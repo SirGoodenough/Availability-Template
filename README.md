@@ -14,6 +14,8 @@ The main reason for using this template is not because it's complicated, it's be
 Install this in HACS or download the `availability_template.jinja` from this repository and place the files into your `config\custom_templates` directory.
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=SirGoodenough&repository=Availability-Template&category=template)
 
+If you cannot see templates in your HACS listing, you *may* need to enable 'experimental features' mode. To do this find the HACS section of the Home Assistant Integration page. Click on the '>' arrow to bring you to the custom integration page. Then click on configure, and select 'enable experimental features' check box. click submit, then float out an restart the HA server to make sure it takes. When you come back HACS will look slightly different, but the Templates section is now visible and you will be able to select it. At some point in time HACS will update and the new interface and options will be the only available interface.
+
 # Availability Test
 
 ## `avail([entity1, ...])`
@@ -37,7 +39,7 @@ Generically, this can be dropped into many templates to be sure the result will 
 ```jinja
 availability: >-
     {% from 'availability_template.jinja' import avail %}
-    {{- avail(['entity_1','entity_2') | bool -}}
+    {{- avail(['entity_1','entity_2']) | bool -}}
 ```
 
 Here is a full example that uses this.  It will give you percent sunshine estimate based on data from sun angle and cloud coverage if you have those integrations in your config. (Found the state statement somewhere a while ago, sorry there is no attribution. I use it in my personal config.)
