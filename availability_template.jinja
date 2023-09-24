@@ -13,7 +13,10 @@
       {% from 'availability_template.jinja' import avail %}
       {{- avail(['entity_1','entity_2']) | bool -}}
   #}
-  {%- if entity_list is iterable -%}
+  {# First tests to make sure this is a list #}
+  {%- if entity_list is iterable and
+    (entity_list is not string and entity_list is not mapping)
+  -%}
     {{- entity_list | map('states') | reject('in', ['unknown','unavailable','','none'])
     | list | count == entity_list | count -}}
   {%- else -%}

@@ -18,7 +18,7 @@ If you cannot see templates in your HACS listing, you *may* need to enable 'expe
 
 # Availability Test
 
-## `avail([entity1, ...])`
+## `avail([entity1, entity2, /])`
 
 This expects a list of entities.
 
