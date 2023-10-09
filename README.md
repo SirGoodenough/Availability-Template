@@ -18,6 +18,15 @@ Install this in HACS or download the `availability_template.jinja` from this rep
 
 You *may* need to enable 'experimental features' mode. To do this find the HACS section of the Home Assistant Integration page. Click on the '>' arrow to bring you to the custom integration page. Then click on configure, and select 'enable experimental features' check box. click submit, then float out and restart the HA server to make sure it takes. When you come back HACS will look slightly different, but the Templates section is now visible and you will be able to select it. At some point in time HACS will update and the new interface and options will be the only available interface.
 
+#### Other help
+
+Before you report a 'Bug', you need to make sure you have read the accompanying Descriptions on the templates and this README and have followed all the settings required here.
+This is important because if these instructions are not followed, you will likely have a bad day and be forced to contact me for help.  Not that I don't want to help, but personal interaction takes me a while to respond and is generally non-productive.
+
+Another good thing to do before you ask for help is try testing what you have in the Developer Tools Template Tab in Home Assistant. There you can adjust this and that until you figure out the answer to your question yourself.  [![Open your Home Assistant instance and show your template developer tools.](https://my.home-assistant.io/badges/developer_template.svg)](https://my.home-assistant.io/redirect/developer_template/)
+
+*********************
+
 # Availability Test
 
 ## `avail([entity1, entity2, /])`
