@@ -59,7 +59,7 @@ availability: >-
 Here is a full example that uses this.  It will give you percent sunshine estimate based on data from sun angle and cloud coverage if you have those integrations in your config. (Found the state statement somewhere a while ago, sorry there is no attribution. I use it in my personal config.)
 
 ```yaml
-- template
+- template:
   - sensor:
     - name: "sunlight_pct"
       unique_id: 9a7586c0-0947-4b41-97e0-c0d2150bd0bb
