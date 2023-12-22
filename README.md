@@ -1,12 +1,13 @@
+Custom Template for checking the availability of an entity.
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/custom-components/hacs)
 ![Version](https://img.shields.io/github/v/release/SirGoodenough/Availability-Template)
 
 <a href="https://www.buymeacoffee.com/SirGoodenough"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=SirGoodenough&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width=auto, height=30/></a>
 <base target="_blank">
 
-# Availability-Template
+# 🧯 Availability-Template
 
-Custom Template for checking the availability of an entity.
 The main reason for using this template is not because it's complicated, it's because availability is something you will be using over and over when you are dealing with sensors, so being able to repeat the same action over and over is better if there is 1 place in your project the code exists.
 
 This requires HomeAssistant version 2023.11.0 or greater due to the use of the list test in the code.
