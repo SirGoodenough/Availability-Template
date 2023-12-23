@@ -91,6 +91,8 @@ Here is a full example that uses this.  It will give you percent sunshine estima
 
 Location of this code: https://github.com/SirGoodenough/Availability-Template
 
+Home Assistant Community Forum Post: https://community.home-assistant.io/t/availability-template/659955
+
 Let me know if you have a suggestion.
 
 If you have any questions, comments or additions be sure to add an issue in the above listed github repo and bring them up on my Discord Server:
