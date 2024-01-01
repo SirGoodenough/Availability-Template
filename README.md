@@ -10,6 +10,12 @@ Custom Template for checking the availability of an entity.
 
 The main reason for using this template is not because it's complicated, it's because availability is something you will be using over and over when you are dealing with sensors, so being able to repeat the same action over and over is better if there is 1 place in your project that the code exists.
 
+Documentation for this Custom Template can be found at:
+
+- The Description in the template itself.
+- The github readme: https://github.com/SirGoodenough/Availability-Template/blob/master/README.md.
+- Home Assistant Community Forum: https://community.home-assistant.io/t/availability-template/659955.
+
 This requires HomeAssistant version 2023.11.0 or greater due to the use of the list test in the code.
 
 # 🔩 Installation
