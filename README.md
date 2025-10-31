@@ -4,6 +4,7 @@ Custom Template for checking the availability of an entity.
 ![Version](https://img.shields.io/github/v/release/SirGoodenough/Availability-Template)
 
 <a href="https://www.buymeacoffee.com/SirGoodenough"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=SirGoodenough&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" width=auto, height=30/></a>
+
 <base target="_blank">
 
 # 🧯 Availability-Template
